@@ -14,5 +14,5 @@
 
 ### 文章链接
 <ul>
-  <li><a href="2018总结.md">2018 总结</a></li>
+  <li><a href="yc-zzh.github.io/2018总结.md">2018 总结</a></li>
 </ul>
